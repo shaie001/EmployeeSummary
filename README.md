@@ -61,6 +61,5 @@ CREATE TABLE employee (
 * [Express.js](https://expressjs.com/)
 * [Node.js](https://nodejs.org/en/)
 * [npmjs](https://docs.npmjs.com/)
-* [inquirer](https://www.npmjs.com/package/inquirer)
 
 
